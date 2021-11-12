@@ -1,0 +1,192 @@
+{
+  "2021": {
+    "05": [
+      {
+        "date": "01",
+        "average": "7.8",
+        "wind": "6",
+        "precipitation": "0"
+      },
+      {
+        "date": "02",
+        "average": "3.9",
+        "wind": "3",
+        "precipitation": "1"
+      },
+      {
+        "date": "03",
+        "average": "4.3",
+        "wind": "4",
+        "precipitation": "0"
+      },
+      {
+        "date": "04",
+        "average": "7.5",
+        "wind": "2",
+        "precipitation": "0"
+      },
+      {
+        "date": "05",
+        "average": "14.2",
+        "wind": "2",
+        "precipitation": "3"
+      },
+      {
+        "date": "06",
+        "average": "19.4",
+        "wind": "1",
+        "precipitation": "0"
+      },
+      {
+        "date": "07",
+        "average": "19.9",
+        "wind": "2",
+        "precipitation": "1"
+      },
+      {
+        "date": "08",
+        "average": "17.7",
+        "wind": "1",
+        "precipitation": "6"
+      },
+      {
+        "date": "09",
+        "average": "17.9",
+        "wind": "2",
+        "precipitation": "1"
+      },
+      {
+        "date": "10",
+        "average": "18.5",
+        "wind": "3",
+        "precipitation": "1"
+      },
+      {
+        "date": "11",
+        "average": "14.3",
+        "wind": "2",
+        "precipitation": "2"
+      },
+      {
+        "date": "12",
+        "average": "16.1",
+        "wind": "4",
+        "precipitation": "0"
+      },
+      {
+        "date": "13",
+        "average": "11.5",
+        "wind": "6",
+        "precipitation": "2"
+      },
+      {
+        "date": "14",
+        "average": "12.1",
+        "wind": "5",
+        "precipitation": "0"
+      },
+      {
+        "date": "15",
+        "average": "9.3",
+        "wind": "3",
+        "precipitation": "1"
+      },
+      {
+        "date": "16",
+        "average": "9.2",
+        "wind": "2",
+        "precipitation": "0"
+      },
+      {
+        "date": "17",
+        "average": "12.4",
+        "wind": "2",
+        "precipitation": "1"
+      },
+      {
+        "date": "18",
+        "average": "7.8",
+        "wind": "6",
+        "precipitation": "2"
+      },
+      {
+        "date": "19",
+        "average": "14.1",
+        "wind": "3",
+        "precipitation": "1"
+      },
+      {
+        "date": "20",
+        "average": "14.6",
+        "wind": "4",
+        "precipitation": "0"
+      },
+      {
+        "date": "21",
+        "average": "18.9",
+        "wind": "6",
+        "precipitation": "0"
+      },
+      {
+        "date": "22",
+        "average": "15.3",
+        "wind": "2",
+        "precipitation": "6"
+      },
+      {
+        "date": "23",
+        "average": "17.9",
+        "wind": "2",
+        "precipitation": "1"
+      },
+      {
+        "date": "24",
+        "average": "12.5",
+        "wind": "1",
+        "precipitation": "3"
+      },
+      {
+        "date": "25",
+        "average": "14.3",
+        "wind": "2",
+        "precipitation": "2"
+      },
+      {
+        "date": "26",
+        "average": "16.1",
+        "wind": "4",
+        "precipitation": "0"
+      },
+      {
+        "date": "27",
+        "average": "12.5",
+        "wind": "5",
+        "precipitation": "0"
+      },
+      {
+        "date": "28",
+        "average": "12.1",
+        "wind": "5",
+        "precipitation": "0"
+      },
+      {
+        "date": "29",
+        "average": "9.3",
+        "wind": "3",
+        "precipitation": "1"
+      },
+      {
+        "date": "30",
+        "average": "9.2",
+        "wind": "2",
+        "precipitation": "0"
+      },
+      {
+        "date": "31",
+        "average": "12.4",
+        "wind": "2",
+        "precipitation": "1"
+      }
+    ]
+  }
+}
